@@ -1,0 +1,88 @@
+personal_information:
+  name: "Example"
+  surname: "Applicant"
+  date_of_birth: "01/01/2000"
+  country: "Example Country"
+  city: "Example City"
+  zip_code: "00000"
+  address: "Example Address"
+  phone_prefix: "+0"
+  phone: "0000000000"
+  email: "applicant@example.invalid"
+  github: "https://example.invalid/github"
+  linkedin: "https://example.invalid/linkedin"
+
+education_details:
+  - education_level: "Bachelor's Degree"
+    institution: "Example University"
+    field_of_study: "Computer Science"
+    final_evaluation_grade: "Example"
+    year_of_completion: "2024"
+    start_date: "2020"
+    additional_info: {}
+
+experience_details:
+  - position: "Example Developer"
+    company: "Example Company"
+    employment_period: "2022 - 2024"
+    location: "Example City"
+    industry: "Software"
+    key_responsibilities:
+      - responsibility: "Built and maintained example software."
+    skills_acquired:
+      - "Python"
+      - "Web development"
+
+projects:
+  - name: "Example Project"
+    description: "Describe a project you completed."
+    link: "https://example.invalid/project"
+
+achievements: []
+certifications: []
+
+languages:
+  - language: "Example Language"
+    proficiency: "Fluent"
+
+interests:
+  - "Example interest"
+
+availability:
+  notice_period: "Example"
+
+salary_expectations:
+  salary_range_usd: "Example"
+
+self_identification:
+  gender: "Prefer not to say"
+  pronouns: "Prefer not to say"
+  veteran: "Prefer not to say"
+  disability: "Prefer not to say"
+  ethnicity: "Prefer not to say"
+
+legal_authorization:
+  eu_work_authorization: "No"
+  us_work_authorization: "No"
+  requires_us_visa: "No"
+  requires_us_sponsorship: "No"
+  requires_eu_visa: "No"
+  legally_allowed_to_work_in_eu: "No"
+  legally_allowed_to_work_in_us: "No"
+  requires_eu_sponsorship: "No"
+  canada_work_authorization: "No"
+  requires_canada_visa: "No"
+  legally_allowed_to_work_in_canada: "No"
+  requires_canada_sponsorship: "No"
+  uk_work_authorization: "No"
+  requires_uk_visa: "No"
+  legally_allowed_to_work_in_uk: "No"
+  requires_uk_sponsorship: "No"
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "No"
+  open_to_relocation: "No"
+  willing_to_complete_assessments: "No"
+  willing_to_undergo_drug_tests: "No"
+  willing_to_undergo_background_checks: "No"
